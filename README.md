@@ -1,6 +1,62 @@
 # Active-Directory-Group-Policy-and-Managing-Accounts
 
 
+<img width="1536" height="1011" alt="image" src="https://github.com/user-attachments/assets/c86da1b0-e3d1-4be0-aa8d-6f5f573a57e3" />
+
+<h2> Objective </h2>
+
+- The main objective is to demonstrate and manage Active Directory account lockout policies, including configuring the lockout threshold, observing account lockout behavior, manually unlocking accounts, and understanding the effects of disabling/enabling user accounts. Additionally, the objective includes learning to observe relevant security logs on both the domain controller and client machines.
+
+
+<h2>Skills Used</h2>
+
+-Active Directory User Account Management:
+
+  - Attempting logins with incorrect passwords to trigger lockouts.
+
+  - Manually unlocking user accounts.
+
+  - Resetting user passwords.
+
+  - Disabling and re-enabling user accounts.
+
+
+- Group Policy Management (GPM):
+
+  - Navigating and configuring Group Policy Objects (GPOs).
+
+  - Modifying security policies, specifically the account lockout threshold.
+
+  - Applying Group Policy changes and understanding their effect.
+
+
+- Log Analysis/Event Viewer:
+
+  - Accessing and reviewing security logs on a Domain Controller.
+
+  - Accessing and reviewing logs on a client machine.
+
+  - Identifying events related to account lockouts, failed login attempts, and account status changes.
+
+
+- Troubleshooting and Observation:
+
+   - Observing and understanding error messages related to locked or disabled accounts.
+
+   - Verifying account status changes within Active Directory Users and Computers (ADUC).
+ 
+
+  
+<h2>Services Used</h2>
+
+- Active Directory Domain Services (AD DS): The core service for managing user accounts, their status (locked, disabled), and applying security policies.
+
+- Group Policy: The management infrastructure for configuring operating system, application, and user settings in an Active Directory environment.
+
+- Windows Event Log Service: The service responsible for recording system, security, and application events on both the Domain Controller and client machines.
+
+
+
 
 
 <img width="1116" height="605" alt="image" src="https://github.com/user-attachments/assets/2a4bed7c-ac31-4af0-9186-40d425433d4d" />
