@@ -10,7 +10,7 @@
 
 <h2>Skills Used</h2>
 
--Active Directory User Account Management:
+- Active Directory User Account Management:
 
   - Attempting logins with incorrect passwords to trigger lockouts.
 
