@@ -90,7 +90,7 @@ Comupter Configuration -> Policies -> Windows Settings -> Security Settings -> A
 
 
 
-When you get Account lockout duration properties, it gives you the options of how to configure the lockout during password log ins. set the settings according to this:
+When you get Account lockout duration properties, it gives you the options of how to configure the lockout during password log ins, set the settings according to this:
 
 - Account lockout duration: 30 min
 - Account lockout threshold: 5 vaild logon attempts
