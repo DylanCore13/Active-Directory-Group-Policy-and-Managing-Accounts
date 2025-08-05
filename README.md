@@ -72,7 +72,9 @@ Now we will be dealing with Account Lockouts so get logged into DC-1 and pick a 
 
 
 
-We will set up a group policy to restrict and implement rules for logging in with password. Go to run in DC-1 and type "gpmc.msc" and click enter. It will open up the group policy management console.
+We will set up a group policy to restrict and implement rules for logging in with password. Go to run in DC-1 and type "gpmc.msc" and click enter. It will open up the group policy management console. You'll then right click on default domain policy in mydomain.com and click edit. In the group policy management editor, expand the following:
+
+Comupter Configuration -> Policies -> Windows Settings -> Security Settings -> Account Policies -> Account Lockout Policies
 
 
 
