@@ -92,11 +92,17 @@ Comupter Configuration -> Policies -> Windows Settings -> Security Settings -> A
 
 When you get Account lockout duration properties, it gives you the options of how to configure the lockout during password log ins. set the settings according to this:
 
-Account lockout duration: 30 min
-Account lockout threshold: 5 vaild logon attempts
-Allow Administrator account lockout: Enabled
-Reset account lockout counter after: 10 min
+- Account lockout duration: 30 min
+- Account lockout threshold: 5 vaild logon attempts
+- Allow Administrator account lockout: Enabled
+- Reset account lockout counter after: 10 min
 
+
+<br>
+<br>
+
+
+You will now log in into Client-1 as a user you chose, from there enter the username and for password, enter the password incorrectly 5 times to see lockout results.
 
 <img width="1006" height="630" alt="image" src="https://github.com/user-attachments/assets/472ca52b-4ce6-4d1c-8bb4-a46e4fcf352a" />
 
