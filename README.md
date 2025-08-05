@@ -64,6 +64,8 @@
 
 
 
+Now we will be dealing with Account Lockouts so get logged into DC-1 and pick a random user account you created previously
+attempt to log in with it 10 times with a bad password.
 
 
 
