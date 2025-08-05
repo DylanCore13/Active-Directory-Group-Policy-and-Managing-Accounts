@@ -115,6 +115,8 @@ You will now log in into Client-1 as a user you chose, from there enter the user
 
 
 
+Now go back to DC-1, be sure Active Directory Users and Computers, right click mydomain.com and click on "find" and search for the individual account, from there click it and if you go to account, it should say that the account is logged out. There should be a box that says, "unlock account". Check it , click ok and apply and from there 
+
 <img width="672" height="561" alt="image" src="https://github.com/user-attachments/assets/f3205e1d-0b21-4b2b-8e64-0b9ecd4d4277" />
 
 
