@@ -115,13 +115,13 @@ You will now log in into Client-1 as a user you chose, from there enter the user
 
 
 
-Now go back to DC-1, be sure Active Directory Users and Computers, right click mydomain.com and click on "find" and search for the individual account, from there click it and if you go to account, it should say that the account is logged out. There should be a box that says, "unlock account". Check it , click ok and apply and from there 
+Now go back to DC-1, be sure Active Directory Users and Computers, right click mydomain.com and click on "find" and search for the individual account, from there click it and if you go to account, it should say that the account is logged out. There should be a box that says, "unlock account". Check it , click ok and apply and from there attempt to log in with Client-1 user.
 
 <img width="672" height="561" alt="image" src="https://github.com/user-attachments/assets/f3205e1d-0b21-4b2b-8e64-0b9ecd4d4277" />
 
 
 
-
+There's also the option of disabling and enabling accounts, in DC-1 click on the user you've been logging in as, it should give you the option of "disable" and if it's disabled, you can enable it again. Try logging into Client-1 as the user and it should say you can't log in cause it's disabled.
 
 
 
