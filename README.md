@@ -64,12 +64,16 @@
 
 
 
-Now we will be dealing with Account Lockouts so get logged into DC-1 and pick a random user account you created previously
-attempt to log in with it 10 times with a bad password.
+Now we will be dealing with Account Lockouts so get logged into DC-1 and pick a random user account you created previously to log in 
 
 
 
 <img width="1116" height="605" alt="image" src="https://github.com/user-attachments/assets/2a4bed7c-ac31-4af0-9186-40d425433d4d" />
+
+
+
+We will set up a group policy to restrict and implement rules for logging in with password. Go to run in DC-1 and type "gpmc.msc" and click enter. It will open up the group policy management console.
+
 
 
 <img width="1074" height="573" alt="image" src="https://github.com/user-attachments/assets/1afeb4e5-e5d0-45a4-9eef-e0c7a06a022d" />
