@@ -135,11 +135,13 @@ There's also the option of disabling and enabling accounts, in DC-1 click on the
 
 
 
+Lastly, we'll go over logs, in DC-1. In search bar type "eventvwr.msc", and it should open up the event viewer where all the authentication logs show up. You should be able to see all log ins and log outs for any user in the admin user group. It also gives you the option of searching up and specific information from them.
+
 <img width="1006" height="510" alt="image" src="https://github.com/user-attachments/assets/0e16f5fc-af29-4fa1-8d09-48601d3999a8" />
 
 
 
-
+MAKE SURE TO DELETE RESOURCES IN AZURE AFTER THIS LAB/GUIDE!!!!!
 
 
 
